@@ -1,7 +1,7 @@
 # Task Management System
 
 ## Overview
-This Task Management System is a simple command-line application built in Python. It allows users to create, manage, and track tasks efficiently. The project serves as a practical example for beginners to learn and apply fundamental Python concepts.
+This Task Management System is a simple command-line application built in Python. I have written this to brush up my Python basics. 
 
 ## Features
 - Add new tasks with title, description, due date, and priority
